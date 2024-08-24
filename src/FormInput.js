@@ -14,9 +14,9 @@ function FormInput() {
         <div>
           <form className="App-form">
             <label class="App-form-label">
-              <h3>Book Title</h3><input type="text" id="book" name="book" />
-    //        <h3>Date Read</h3><input id="date"  type="date" name="date" />
-    //     <h3> How strongly I recommend it</h3>
+ <h3>Book Title</h3><input type="text" id="book" name="book" />
+<h3>Date Read</h3><input id="date"  type="date" name="date" />
+     <h3> How strongly I recommend it</h3>
             <select name="ratings" id="rating">     
     //       <option value="10">10</option>
     //     <option value="9">9</option>

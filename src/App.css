@@ -40,14 +40,14 @@
   align-items: center;
   justify-content: center;
   background-color: white;
-  min-height: 100vh;
+  min-height: 50vh;
   display: flex;
 
 }
 
 .App-form-label{
   background-color: grey;
-  padding: 10em;
+  padding: 1em;
   
 }
 
