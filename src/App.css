@@ -41,7 +41,7 @@
   justify-content: center;
   background-color: white;
   min-height: 50vh;
-  display: flex;
+  display: grid;
 
 }
 
